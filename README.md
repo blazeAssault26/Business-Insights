@@ -1,4 +1,13 @@
-Data Analysis Using SQL
+# SQL and Power BI Data Analysis
+
+## Overview
+
+- Extracted sales data from a SQL dump file, imported it into a SQL database, and utilized SQL queries for preliminary insights into the sales trend.
+- Executed a comprehensive solution by connecting the SQL database to Power BI, performing data modeling, creating relationships, and utilizing Power BI for effective data cleaning and transformation.
+- Leveraging Power BI, the dashboard optimizes data analysis, decision-making, and operational efficiency, targeting a minimum 7% revenue growth in the next quarter.
+
+
+## SQL Data Analysis
 
   1.Show all customer records
   
